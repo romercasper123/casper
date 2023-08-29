@@ -11,7 +11,7 @@ function GonWebhook(Shinuqi)
     local script = [[
     $webHookUrl = "]]..WebhookUrl..[["
     $thumbnailObject = [PSCustomObject]@{
-    url = "https://cdn.discordapp.com/emojis/1016295109970645022.gif?size=80&quality=lossless"
+    url = "ttps://cdn.discordapp.com/attachments/1010295156848738389/1146114169519755294/growtopia-video-game.gif"
     }
     $color = Get-Random -Minimum 0 -Maximum 16777215
     $title = 'casperc. - Rotation'
