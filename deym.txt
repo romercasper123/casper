@@ -222,7 +222,7 @@ function harvest(list)
                 Reconnect(list)    
             end
         end
-        if inventory:getItemCount(BlockID) >= 150 then
+        if inventory:getItemCount(BlockID) >= 200 then
             break
         end
     end
